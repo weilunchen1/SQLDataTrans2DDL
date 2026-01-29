@@ -1,0 +1,5 @@
+{
+  "name": "SQL Data Transmuter - Dark Edition",
+  "description": "A secure, client-side tool to convert SQL result set copy-pastes into executable SQL statements. Optimized for GitHub Pages with zero external dependencies.",
+  "requestFramePermissions": []
+}
